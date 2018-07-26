@@ -27,7 +27,7 @@ int main (void)
 		LCD_vidWriteNumber(step);
 		_delay_ms(100);
 		LCD_vidWriteCommand(0b00000001);
-//pppppppppppppppppppppppppppppppppS
+//configuration management
 	}
 	return 0;
 }
